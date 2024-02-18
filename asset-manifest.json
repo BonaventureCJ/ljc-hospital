@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ljc-hospital/static/css/main.a49fa703.css",
-    "main.js": "/ljc-hospital/static/js/main.1d89a129.js",
+    "main.js": "/ljc-hospital/static/js/main.77a95e1a.js",
     "static/js/787.387be6ea.chunk.js": "/ljc-hospital/static/js/787.387be6ea.chunk.js",
     "static/media/ljcstaff11be.jpg": "/ljc-hospital/static/media/ljcstaff11be.dae809f0711de2e66463.jpg",
     "static/media/ljchospital4.jpg": "/ljc-hospital/static/media/ljchospital4.49045c706238571e60b3.jpg",
@@ -59,11 +59,11 @@
     "static/media/ljclogo2.jpg": "/ljc-hospital/static/media/ljclogo2.105305c1e364dcf16b71.jpg",
     "index.html": "/ljc-hospital/index.html",
     "main.a49fa703.css.map": "/ljc-hospital/static/css/main.a49fa703.css.map",
-    "main.1d89a129.js.map": "/ljc-hospital/static/js/main.1d89a129.js.map",
+    "main.77a95e1a.js.map": "/ljc-hospital/static/js/main.77a95e1a.js.map",
     "787.387be6ea.chunk.js.map": "/ljc-hospital/static/js/787.387be6ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a49fa703.css",
-    "static/js/main.1d89a129.js"
+    "static/js/main.77a95e1a.js"
   ]
 }
